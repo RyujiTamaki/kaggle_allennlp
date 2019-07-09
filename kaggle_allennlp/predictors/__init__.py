@@ -1,0 +1,1 @@
+from kaggle_allennlp.predictors.toxic_comment_predictor import ToxicCommentPredictor
