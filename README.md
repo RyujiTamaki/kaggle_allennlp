@@ -2,6 +2,8 @@
 kaggle用のallennlpのコードを置くライブラリ
 現在 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge のみ
 
+kaggle kernel版はこちら: https://www.kaggle.com/decoflight/allennlp-example
+
 ### data download
 ```
 $ kaggle competitions download -c jigsaw-toxic-comment-classification-challenge
