@@ -4,9 +4,9 @@ kaggle用のallennlpのコードを置くライブラリ
 
 ### data download
 ```
-kaggle competitions download -c jigsaw-toxic-comment-classification-challenge
-kaggle datasets download -d facebook/fatsttext-common-crawl
-kaggle datasets download -d nishitian/glove-stanford
+$ kaggle competitions download -c jigsaw-toxic-comment-classification-challenge
+$ kaggle datasets download -d facebook/fatsttext-common-crawl
+$ kaggle datasets download -d nishitian/glove-stanford
 ```
 
 ### train command
